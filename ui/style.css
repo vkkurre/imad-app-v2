@@ -25,7 +25,7 @@ body {
     color:grey;
     background:rgba(211,211,211);
     font-family:calibri;
-    
+    padding:20px;
 }
 .link{
     text-decoration:none;
