@@ -19,4 +19,9 @@ body {
 .img-medium {
     height: 200px;
 }
-
+.container{
+    margin:0 auto;
+    width:800px;
+    color:grey;
+    background:rgba(211,211,211);
+}
